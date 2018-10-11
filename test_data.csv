@@ -1,0 +1,9 @@
+F,20,normal,True,Yes,P
+F,40,normal,True,Yes,P
+F,60,normal,True,Yes,P
+F,20,cancer,False,Yes,P
+F,40,cancer,False,Yes,P
+F,60,cancer,False,Yes,P
+F,20,cancer,True,Yes,P
+F,40,cancer,True,Yes,P
+F,60,cancer,True,Yes,P
