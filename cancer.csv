@@ -11,6 +11,9 @@ F,60,normal,True,No,P
 F,20,normal,False,Yes,N
 F,40,normal,False,Yes,P
 F,60,normal,False,Yes,P
+F,20,normal,True,Yes,P
+F,40,normal,True,Yes,P
+F,60,normal,True,Yes,P
 M,20,normal,False,No,N
 M,40,normal,False,No,N
 M,60,normal,False,No,N
